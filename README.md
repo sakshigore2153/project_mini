@@ -35,6 +35,18 @@ Server  Xampp MySQL server
 Database  MySQL  
 Browser  Browser(IE 7.0 or Above, Google Chrome, 
 Mozilla Firefox
+1.6	Detail Description of  Technology Used
+
+2.	Frontend:
+•	HTML5 & CSS3: For structuring and styling web pages, making them responsive.
+•	JavaScript: Enhances user interactivity (form validation, dynamic content).
+2.  Backend:
+•	PHP: Server-side scripting for processing data and managing user interactions.
+•	MySQL: Database for storing student and course data.
+•	PHP Frameworks : Simplifies development and improves code quality.
+2.	Payment Integration:
+•	PayPal: Secure online payment processing.
+
 
  Table specifications (Database) 
 Data Flow Diagrams themselves not describe all details about data flows. For 
@@ -113,8 +125,7 @@ No.   Field Name   Data Type   Size
 9.  exp_date  date  10  
 10.  CVV  int  3
 
-5.User Interface Design 
-1.Index page (The index page of the Online College Admission System provides navigation links like Home, 
-Admissions, and Merit List, with a user-friendly interface showcasing college details.) 
-    
+
+ 
+   
 
